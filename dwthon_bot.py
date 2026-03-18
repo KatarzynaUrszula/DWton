@@ -2,7 +2,7 @@ import requests
 import time
 
 # KROK 1: Twój token (Pamiętaj: nie udostępniaj go publicznie!)
-TOKEN = "7922773977:AAH1lLRDxXFbrJWHUvBgHNvdjVH_ZWvK0H8"
+TOKEN = "moj token do bota"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 
 # KROK 2: Sprawdź, czy bot żyje
