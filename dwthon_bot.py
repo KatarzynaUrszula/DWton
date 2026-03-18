@@ -1,8 +1,8 @@
 import requests
 import time
 
-# KROK 1: Wklej swój token między cudzysłowy
-TOKEN = "TUTAJ_WKLEJ_SWÓJ_TOKEN_Z_TELEGRAMA"
+# KROK 1: Twój token (Pamiętaj: nie udostępniaj go publicznie!)
+TOKEN = "7922773977:AAH1lLRDxXFbrJWHUvBgHNvdjVH_ZWvK0H8"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 
 # KROK 2: Sprawdź, czy bot żyje
